@@ -1,6 +1,6 @@
 cask "picontrol" do
-  version "1.0.4"
-  sha256 "b75906dbd8d400266b54a2ab1a1831c2ab8b8b695d8706797fb2c9819de56576"
+  version "1.0.5"
+  sha256 "8a6ff3496b11fa0aa623bc3c1e9ace4baecd70e21ecdfe8d9b1ecd7c3970034d"
 
   url "https://github.com/Anoulpainting/picontrol/releases/download/v#{version}/PiControl.dmg"
   name "PiControl"
